@@ -8,8 +8,7 @@ This project predicts the **Estimated Salary** of a bank customer using an **Art
 
 ## Live Demo
 
-**Deployed Application:**
-`https://ann-estimated-salary-prediction-y6l9whbruyxf4vzargskf6.streamlit.app/`
+**Deployed Application:**https://ann-estimated-salary-prediction-y6l9whbruyxf4vzargskf6.streamlit.app
 
 ---
 
